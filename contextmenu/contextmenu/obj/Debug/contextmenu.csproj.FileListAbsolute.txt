@@ -1,0 +1,9 @@
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\bin\Debug\contextmenu.exe.config
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\bin\Debug\contextmenu.exe
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\bin\Debug\contextmenu.pdb
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.csprojResolveAssemblyReference.cache
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.Form1.resources
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.Properties.Resources.resources
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.csproj.GenerateResource.Cache
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.exe
+c:\users\tinac\onedrive\documentos\visual studio 2015\Projects\contextmenu\contextmenu\obj\Debug\contextmenu.pdb
